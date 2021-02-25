@@ -1,0 +1,7 @@
+torch==1.1.0
+opencv-python==4.1.0.25
+scikit-image==0.13.0
+scipy==1.1.0
+tensorboardx==1.9
+torchvision==0.3.0
+numpy==1.15.0
