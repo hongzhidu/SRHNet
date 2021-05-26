@@ -12,7 +12,7 @@ inproceedings{dusrhnet,
   author = {Hongzhi Du, Yanyan Li, Yanbiao Sun, Jigui Zhu and Federico Tombari},
   title = {SRH-Net: Stacked Recurrent Hourglass Network for Stereo Matching},
   year = {2021},
-  booktitle = {2021 arXiv:2105.11587},
+  booktitle = {arXiv preprint arXiv:2105.11587},
  }
 ```
 
