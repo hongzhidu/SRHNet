@@ -2,6 +2,8 @@
 
 ### Introduction
 
+![architect](misc/architect2.png) 
+
 This repository is the souce code of SHR-Net which is accepted to **IROS2021 (with RAL)**. For commercial purposes, please contact the authors: duhz@tju.edu.cn. If you use SRH-Net in an academic work, please cite:
 ```
 inproceedings{dusrhnet,
@@ -11,16 +13,6 @@ inproceedings{dusrhnet,
   booktitle = {arXiv preprint arXiv:2105.11587},
  }
 
-![architect](misc/architect2.png) 
-
-For commercial purposes, please contact the authors: duhz@tju.edu.cn. If you use PlanarSLAM in an academic work, please cite:
-```
-inproceedings{dusrhnet,
-  author = {Hongzhi Du, Yanyan Li, Yanbiao Sun, Jigui Zhu and Federico Tombari},
-  title = {SRH-Net: Stacked Recurrent Hourglass Network for Stereo Matching},
-  year = {2021},
-  booktitle = {arXiv preprint arXiv:2105.11587},
- }
 ```
 
 ### Installation
